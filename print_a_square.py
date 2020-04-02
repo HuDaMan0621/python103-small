@@ -10,7 +10,7 @@
 count = 1
 
 while count <= 5:
-    print('*****', count)
+    print('*****')
     count = count + 1
 
 
